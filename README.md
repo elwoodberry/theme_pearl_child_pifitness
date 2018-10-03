@@ -1,7 +1,16 @@
 # Positive Impact WP Theme
 
+## Prerequisite . 
+1. Wordpress Installed . 
+2. Parent Theme, [Pearl](https://themeforest.net/item/pearl-true-multiniche-wordpress-theme/20432158) - K: 0kjFG9w2YDlHJLzwsZHc2d4zigvvuVkJ . 
+3. Install the **Company** demo. Along with demo content this demo will require the following plugins:  
+   1. [STM Configurations](https://stylemixthemes.com/) . 
+   1. [WPBakery Page Builder](http://wpbakery.com/) . 
+   1. [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
+   1. [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/)
 
-# Files  
+
+## Files  
 ---  
 
 screenshot.png (1200x900)
