@@ -21,6 +21,22 @@
 
 ### Modifications  
 1. Tippy Top Menu  
+   **Update Social Links**  
+   "Pearl" / "Theme Options" / "Header" / "Header Options" / "Header Socials"    
+   
+   **Update Email**  
+   "Pearl" / "Theme Options" / "Header" / "Header Builder" / "Text with Icon"   
+   
+   **Update Phone**  
+   "Pearl" / "Theme Options" / "Header" / "Header Builder" / "Text with Icon"  
+   
+   **Copyrights**  
+   "Pearl" / "Theme Options" / "Footer" / "Copyright" / "Copyright Text"  
+   
+   ```html  
+   Positive Impact Fitness & Nutrition developed by BoxBalloon, Inc.
+   ```
+   
 2. Main Menu  
 
 
