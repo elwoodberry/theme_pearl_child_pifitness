@@ -8,10 +8,14 @@
    1. [WPBakery Page Builder](http://wpbakery.com/) . 
    1. [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
    1. [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/)
+   
+   
 
+## Getting Started  
+1. Install child theme  
+2. ?  
 
-## Files  
----  
+## Files
 
 screenshot.png (1200x900)
 
