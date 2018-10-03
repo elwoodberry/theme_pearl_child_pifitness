@@ -9,11 +9,20 @@
    1. [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
    1. [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/)
    
-   
 
 ## Getting Started  
 1. Install child theme  
-2. ?  
+1. Update all demo pages to "Draft"  
+1. Change "News" to "Blog"
+1. Add "About" page  
+1. Add "Challenges" page (page template: "All Challeges")  
+1. Add "Recipes" page (page template: "All Challeges") 
+1. Update the "Main" menu to (About, Blog, Recipes, Challenges)
+
+### Modifications  
+1. Tippy Top Menu  
+2. Main Menu  
+
 
 ## Files
 
