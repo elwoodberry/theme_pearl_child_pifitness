@@ -8,6 +8,7 @@
    1. [WPBakery Page Builder](http://wpbakery.com/) . 
    1. [Contact Form 7](https://wordpress.org/plugins/contact-form-7/)
    1. [Breadcrumb NavXT](https://wordpress.org/plugins/breadcrumb-navxt/)
+   1. [Limit Login Attempts](https://wordpress.org/plugins/limit-login-attempts/)
    
 
 ## Getting Started  
@@ -37,8 +38,11 @@
    Positive Impact Fitness & Nutrition developed by BoxBalloon, Inc.
    ```
    
-2. Main Menu  
+1. Main Menu  
 
+1. Front Page 
+   * Pearl Spacer Height: 280  
+   * 
 
 ## Files
 
@@ -60,3 +64,5 @@ screenshot.png (1200x900)
 # Log .   
 ---  
 * Oct 2nd, 2018 - 
+
+* Oct 6th, 2018 - Addded https://wordpress.org/plugins/limit-login-attempts/ to plugin list 
