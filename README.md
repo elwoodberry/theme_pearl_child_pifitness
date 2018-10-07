@@ -66,3 +66,10 @@ screenshot.png (1200x900)
 * Oct 2nd, 2018 - 
 
 * Oct 6th, 2018 - Addded https://wordpress.org/plugins/limit-login-attempts/ to plugin list 
+
+* Oct 7th, 2018 - HTTP ERROR 500  
+* Installing the Pearl theme or trying to preview the theme gives an error. To fix the error the theme has to be deleted and then deactivated by activating a different theme. Is it the theme or the actual godaddy automated WP install?    
+* [How to Fix the 500 Internal Server Error in WordPress](https://www.wpbeginner.com/wp-tutorials/how-to-fix-the-internal-server-error-in-wordpress/) February 20th, 2018  
+* Reset shared hosting account? - [How to reset hosting on Godaddy](https://youtu.be/iVb2KBkP8kY)  
+* [How to Install WordPress with GoDaddy Manually](https://youtu.be/GDoyygPx0Bk)  
+* 
