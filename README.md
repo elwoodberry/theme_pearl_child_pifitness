@@ -1,8 +1,9 @@
 # Positive Impact WP Theme
 
 ## Prerequisite . 
-1. Wordpress Installed . 
-2. Parent Theme, [Pearl](https://themeforest.net/item/pearl-true-multiniche-wordpress-theme/20432158) - K: 0kjFG9w2YDlHJLzwsZHc2d4zigvvuVkJ . 
+1. Wordpress Installed  
+2. Parent Theme, [Pearl](https://themeforest.net/item/pearl-true-multiniche-wordpress-theme/20432158) - K: 0kjFG9w2YDlHJLzwsZHc2d4zigvvuVkJ  
+1. Install child theme  
 3. Install the **Company** demo. Along with demo content this demo will require the following plugins:  
    1. [STM Configurations](https://stylemixthemes.com/) . 
    1. [WPBakery Page Builder](http://wpbakery.com/) . 
@@ -12,7 +13,6 @@
    
 
 ## Getting Started  
-1. Install child theme  
 1. Update all demo pages to "Draft"  
 1. Change "News" to "Blog"
 1. Add "About" page  
@@ -24,6 +24,10 @@
 1. Tippy Top Menu  
    **Update Social Links**  
    "Pearl" / "Theme Options" / "Header" / "Header Options" / "Header Socials"    
+       1. Facebook  
+       2. Twitter  
+       3. Instagram  
+       4. YouTube  
    
    **Update Email**  
    "Pearl" / "Theme Options" / "Header" / "Header Builder" / "Text with Icon"   
@@ -41,6 +45,23 @@
 1. Main Menu  
 
 1. Front Page 
+   1. Add New 'Row'  
+      * COLUMN  
+         - Set to 50/50  
+         
+      * SETTINGS: GENERAL  
+         - Row Stretch: Stretch Row  
+         
+      * SETTINGS: DESIGN OPTIONS  
+         - Add Background image  
+         - Set Image to 'Cover'  
+         
+      * COLUMN 1  
+         - Pearl Spacer: Default Spacer height(400)  
+         - Row: Column (20/80)  
+            - Pearl Video Popup(url, style(11))  
+         - Pearl Spacer: Default Spacer height(100)    
+      
    * Pearl Spacer Height: 280  
    * 
 
